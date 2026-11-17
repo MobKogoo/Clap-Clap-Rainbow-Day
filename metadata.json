@@ -1,0 +1,6 @@
+{
+  "name": "Clap, Clap, Rainbow Day!",
+  "description": "A 144-second 3D animated children's music video set in Rainbow Garden with Bella, Milo, and Pip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
